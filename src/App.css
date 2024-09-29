@@ -270,6 +270,15 @@ footer p {
   margin-bottom: 20px;
 }
 /* about */
+#about {
+  width: 80%; /* Adjusts the width of the box */
+  margin: 20px auto; /* Centers the box and adds spacing */
+  padding: 20px; /* Adds space inside the box */
+  border: 2px solid #000; /* Creates a solid black border */
+  border-radius: 10px; /* Rounds the corners */
+  background-color: #f9f9f9; /* Sets a light background color */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
 #about h2 {
   text-align: center;
   margin-bottom: 20px;
