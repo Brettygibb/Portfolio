@@ -7,6 +7,7 @@ import Header from "./Header.js";
 import Home from "./Home.js";
 import Nav from "./Nav.js";
 import Projects from "./Projects.js";
+import Skills from "./Skills.js";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Header />
         <Home />
         <About />
+        <Skills />
         <Projects />
         <Contact />
         <Footer />
