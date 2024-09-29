@@ -69,6 +69,7 @@ function Projects() {
               {/* Card Body */}
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title">{project.title}</h5>
+                <hr></hr>
                 <p className="card-text flex-grow-1">{project.description}</p>
               </div>
               {/* Card Footer */}
