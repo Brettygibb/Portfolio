@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import About from "./About.js";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <p>this is a test</p>
         <p>test 2</p>
         {/* Add more components or sections here */}
+        <About />
       </header>
     </div>
   );
