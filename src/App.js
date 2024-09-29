@@ -8,6 +8,7 @@ function App() {
         <h1>Brett Gibbons Portfolio</h1>
         <p>Welcome to my portfolio! Check out my projects below.</p>
         <p>this is a test</p>
+        <p>test 2</p>
         {/* Add more components or sections here */}
       </header>
     </div>
