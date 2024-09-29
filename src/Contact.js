@@ -15,7 +15,7 @@ function Contact() {
 
     const templateParams = {
       from_name: name,
-      reply_to: email,
+      from_email: email,
       message: message,
       subject: "Contact Form Submission",
     };
