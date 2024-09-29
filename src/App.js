@@ -12,20 +12,14 @@ import Skills from "./Skills.js";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Brett Gibbons Portfolio</h1>
-        <p>Welcome to my portfolio! Check out my projects below.</p>
-
-        {/* Add more components or sections here */}
-        <Nav />
-        <Header />
-        <Home />
-        <About />
-        <Skills />
-        <Projects />
-        <Contact />
-        <Footer />
-      </header>
+      <Nav />
+      <Header />
+      <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+      <Footer />
     </div>
   );
 }
