@@ -10,14 +10,14 @@ function Projects() {
       description:
         "This was a project I worked on for my final project in my final year of College. It was a website that was designed to help students find tutors in their area. The website was built using HTML, CSS, JavaScript, and PHP.",
       link: "https://github.com/Brettygibb/TutorWebSiteSystemProject",
-      image: "/images/tutor.jpg",
+      image: "images/tutor.jpg",
     },
     {
       title: "Tekken8 Player Tracker",
       description:
         "This was a passion project I made to track what characters I had the best win to loss ratio with in Tekken 8. The project was built using HTML, CSS, and PHP.",
       link: "https://github.com/Brettygibb/Tekken8PlayerTracker/tree/WorkingDev",
-      image: "/images/tekken.jpg",
+      image: "images/tekken.jpg",
     },
     // Add more projects as needed
   ];
