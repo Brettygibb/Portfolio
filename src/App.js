@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import About from "./About.js";
+import Contact from "./Contact.js";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
 
         {/* Add more components or sections here */}
         <About />
+        <Contact />
       </header>
     </div>
   );
