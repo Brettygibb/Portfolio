@@ -22,14 +22,14 @@ function Projects() {
     {
       title: "BGRadio",
       description:
-        "This project I really wanted to learn how to host a radio station online. I used Icecast and Mixxx to create a radio station that plays music 24/7. I also created a website to go along with it. The website was built using HTML, CSS, and PHP. All of it hosting on my home server.",
+        "For this project, I built a fully self-hosted online radio station to gain hands-on experience with streaming technology and server management. Using Icecast as the streaming server and Mixxx as the broadcasting software, I set up a 24/7 music stream. To provide a user-friendly interface, I developed a companion website using HTML, CSS, and PHP, enabling listeners to tune in seamlessly. The entire system is hosted on my home server, where I configured and optimized the backend for stability, ensuring uninterrupted streaming. This project deepened my understanding of network protocols, server deployment, and real-time media streaming while reinforcing my skills in web development and Linux system administration.",
       link: "http://bgradio.ddns.net/",
       image: "images/BGRadio.png",
     },
     {
       title: "Merch App",
       description:
-        "This Project I built to help me merchandise for my part time job. basic Crud operations that exports a excel file of all product of the store. The project was built using HTML, CSS, JavaScript, and React. The website is hosted on my home server",
+        "I developed this project to streamline merchandising tasks for my part-time job by implementing a CRUD-based inventory management system. The application allows users to create, read, update, and delete product entries and features an Excel export function to generate comprehensive reports of all store products. Built using React, JavaScript, HTML, and CSS, the frontend provides an intuitive interface for managing inventory efficiently. The system is hosted on my home server, where I configured the backend for optimal performance and reliability. This project enhanced my expertise in frontend development, state management, and file handling, while also reinforcing my experience in server deployment and data processing.",
       link: "http://159.2.165.154:3000/",
       image: "images/Merch.png",
     },
