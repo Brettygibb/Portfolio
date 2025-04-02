@@ -93,7 +93,7 @@ function Projects() {
                   onClick={() => handleButtonClick(project.link)}
                 >
                   <span className="btn-text-one">View Project</span>
-                  <span className="btn-text-two">On Github</span>
+                  <span className="btn-text-two">Click Me</span>
                 </button>
               </div>
             </div>
