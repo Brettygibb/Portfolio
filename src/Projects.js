@@ -24,14 +24,14 @@ function Projects() {
       description:
         "This project I really wanted to learn how to host a radio station online. I used Icecast and Mixxx to create a radio station that plays music 24/7. I also created a website to go along with it. The website was built using HTML, CSS, and PHP. All of it hosting on my home server.",
       link: "http://bgradio.ddns.net/",
-      image: "images/radio.jpg",
+      image: "images/BGRadio.png",
     },
     {
       title: "Merch App",
       description:
         "This Project I built to help me merchandise for my part time job. basic Crud operations that exports a excel file of all product of the store. The project was built using HTML, CSS, JavaScript, and React. The website is hosted on my home server",
       link: "http://159.2.165.154:3000/",
-      image: "images/merch.jpg",
+      image: "images/Merch.png",
     },
     // Add more projects as needed
   ];
