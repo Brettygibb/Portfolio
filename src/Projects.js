@@ -22,14 +22,14 @@ function Projects() {
     {
       title: "BGRadio",
       description:
-        "For this project, I built a fully self-hosted online radio station to gain hands-on experience with streaming technology and server management. Using Icecast as the streaming server and Mixxx as the broadcasting software, I set up a 24/7 music stream. To provide a user-friendly interface, I developed a companion website using HTML, CSS, and PHP, enabling listeners to tune in seamlessly. The entire system is hosted on my home server, where I configured and optimized the backend for stability, ensuring uninterrupted streaming. This project deepened my understanding of network protocols, server deployment, and real-time media streaming while reinforcing my skills in web development and Linux system administration.",
+        "I built a fully self-hosted online radio station using Icecast for streaming and Mixxx for broadcasting, with a companion website in HTML, CSS, and PHP for easy access. Hosted on my home server, I optimized the backend for stability, ensuring uninterrupted 24/7 streaming. This project strengthened my skills in server management, real-time media streaming, web development, and Linux administration.",
       link: "http://bgradio.ddns.net/",
       image: "images/BGRadio.png",
     },
     {
       title: "Merch App",
       description:
-        "I developed this project to streamline merchandising tasks for my part-time job by implementing a CRUD-based inventory management system. The application allows users to create, read, update, and delete product entries and features an Excel export function to generate comprehensive reports of all store products. Built using React, JavaScript, HTML, and CSS, the frontend provides an intuitive interface for managing inventory efficiently. The system is hosted on my home server, where I configured the backend for optimal performance and reliability. This project enhanced my expertise in frontend development, state management, and file handling, while also reinforcing my experience in server deployment and data processing.",
+        "I built a CRUD-based inventory management system to streamline merchandising tasks at my part-time job. The app, developed with React, JavaScript, HTML, and CSS, allows users to manage products and export reports to Excel. Hosted on my home server, it’s optimized for performance and reliability. This project strengthened my skills in frontend development, state management, server deployment, and data processing.",
       link: "http://159.2.165.154:3000/",
       image: "images/Merch.png",
     },

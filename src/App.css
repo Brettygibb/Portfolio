@@ -224,7 +224,8 @@ footer p {
 }
 .card-text {
   text-align: justify;
-  font-family: Rubik, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif,
+    sans-serif; /* Sets the font family */
 }
 
 /* Image styling */
@@ -287,13 +288,12 @@ footer p {
   font-size: 3rem;
 }
 #about p {
-  padding: 0% 10%;
-  line-height: 1.6;
-  text-align: justify;
-  margin-bottom: 1px;
-  font-family: Rubik, sans-serif;
-  font-size: 1.5rem;
-  text-indent: 1em;
+  font-size: 1.2rem;
+  line-height: 1.6; /* Increases line height for better readability */
+  text-align: justify; /* Justifies the text for a cleaner look */
+  margin-bottom: 20px; /* Adds space below the paragraph */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif,
+    sans-serif; /* Sets the font family */
 }
 #about hr {
   width: 75%;
@@ -408,4 +408,49 @@ button {
 
 button:hover {
   background-color: #1976d2;
+}
+/* For small screens like phones */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+    text-align: center;
+  }
+
+  .container {
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  #home h1 {
+    font-size: 3rem;
+  }
+}
+
+/* For tablets */
+@media (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 16px;
+    padding: 20px;
+  }
+
+  .container {
+    max-width: 80%;
+  }
+}
+
+/* For larger screens */
+@media (min-width: 1025px) {
+  body {
+    font-size: 18px;
+    padding: 30px;
+  }
+
+  .container {
+    max-width: 1200px;
+  }
 }

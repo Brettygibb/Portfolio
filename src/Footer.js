@@ -41,7 +41,8 @@ function Footer() {
         ))}
       </p>
       <footer>
-        <p>Brett Gibbons &copy;2024 </p>
+        <p>Brett Gibbons &copy;2024</p>
+        <p>This Website Is built with React</p>
       </footer>
     </section>
   );
