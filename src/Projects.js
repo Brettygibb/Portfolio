@@ -23,7 +23,7 @@ function Projects() {
       title: "BGRadio",
       description:
         "I built a fully self-hosted online radio station using Icecast for streaming and Mixxx for broadcasting, with a companion website in HTML, CSS, and PHP for easy access. Hosted on my home server, I optimized the backend for stability, ensuring uninterrupted 24/7 streaming. This project strengthened my skills in server management, real-time media streaming, web development, and Linux administration.",
-      link: "http://bgradio.ddns.net/",
+      link: "http://localnoise506.space/?fbclid=PAZXh0bgNhZW0CMTEAAafBEvcZyWDxOMPTpk1jwFRUi7hI80h2dQHTvRPhSCqWEXAtBkLBW3BL5wMarw_aem_V1-du5xVtD5PIACkFp9K3g",
       image: "images/BGRadio.png",
     },
     {
