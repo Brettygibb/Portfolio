@@ -93,6 +93,7 @@ nav ul:hover li:hover ~ li:before {
   width: 140px;
   height: 50px;
   background: linear-gradient(to top, #0066cc, #007bff);
+  background-color: #007bff;
   color: #fff;
   border-radius: 50px;
   border: none;
