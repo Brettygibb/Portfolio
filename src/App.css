@@ -143,7 +143,6 @@ nav ul:hover li:hover ~ li:before {
   background: #252627;
   color: grey;
   text-align: center;
-  padding: 10px 0;
   bottom: 0;
   width: 100%;
 }
