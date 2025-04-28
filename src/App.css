@@ -28,16 +28,17 @@ nav {
 }
 
 nav li {
-  display: inline;
   padding: 0 10px;
 }
 
 nav a {
   color: white; /* This sets the text color to white */
   text-decoration: none; /* Removes underline from links */
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 nav a:hover {
-  color: white; /* This changes the text color to black */
+  color: #007bff; /* Blue highlight */
 }
 nav ul {
   list-style: none;
