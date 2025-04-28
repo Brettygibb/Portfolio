@@ -143,6 +143,7 @@ nav ul:hover li:hover ~ li:before {
   background: #252627;
   color: grey;
   text-align: center;
+  padding: 10px 0;
   bottom: 0;
   width: 100%;
 }
@@ -159,7 +160,6 @@ nav ul:hover li:hover ~ li:before {
   transform: scale(1.1); /* Slightly enlarge the image on hover */
 }
 footer p {
-  margin-top: 20px;
   font-size: 14px;
   color: #6c757d; /* Optional: Add a text color */
 }
