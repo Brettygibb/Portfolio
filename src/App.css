@@ -17,14 +17,15 @@ body {
 
 /* navbar */
 nav {
-  position: sticky;
   position: -webkit-sticky;
+  position: sticky;
   z-index: 1000;
   top: 0;
   padding: 10px 0;
   text-align: center;
   width: 100%;
   background-color: #0a192f; /* Deep navy blue */
+  margin-top: 0; /* explicitly removing margin */
 }
 
 nav li {
