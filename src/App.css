@@ -1,14 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 body {
-  font-family: Arial, sans-serif;
   padding-top: 0; /* Remove padding from the top */
   margin-top: 0; /* Explicitly ensure no top margin */
-  background: linear-gradient(
-    to bottom,
-    rgb(255, 255, 255),
-    rgb(2, 2, 255) 180%
-  );
+  font-family: "Roboto", sans-serif;
+  background-color: #f8f9fa; /* Professional soft background */
+  color: #212529; /* Professional text color */
   height: auto;
   display: flex;
   justify-content: center;
