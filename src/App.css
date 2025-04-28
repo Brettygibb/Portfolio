@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background: #f5f5f5; /* Light grey background for cleaner look */
+  color: #333333;
   height: auto;
   display: flex;
   justify-content: center;
@@ -16,7 +17,7 @@ nav {
   padding: 10px 0;
   text-align: center;
   width: 100%;
-  background-color: #1a1b1c;
+  background-color: #0a192f;
 }
 
 nav li {
@@ -91,7 +92,7 @@ nav ul:hover li:hover ~ li:before {
 .btn-view-project {
   width: 140px;
   height: 50px;
-  background: linear-gradient(to top, #00154c, #12376e, #23487f);
+  background: linear-gradient(to top, #0066cc, #007bff);
   color: #fff;
   border-radius: 50px;
   border: none;
