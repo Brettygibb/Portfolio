@@ -2,8 +2,8 @@
 
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  padding-top: 0; /* Remove padding from the top */
+  margin-top: 0; /* Explicitly ensure no top margin */
   background: linear-gradient(
     to bottom,
     rgb(255, 255, 255),
