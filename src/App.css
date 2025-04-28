@@ -39,7 +39,7 @@ nav a {
   font-size: 1.2rem;
 }
 nav a:hover {
-  color: #007bff; /* Blue highlight */
+  color: white; /* Blue highlight */
 }
 nav ul {
   list-style: none;
